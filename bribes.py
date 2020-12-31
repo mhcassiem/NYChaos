@@ -1,3 +1,3 @@
 
 def minimumBribes(q):
-    pass
+    return q
