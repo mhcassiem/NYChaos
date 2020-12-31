@@ -1,0 +1,3 @@
+
+def minimumBribes(q):
+    pass
